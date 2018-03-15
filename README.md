@@ -9,3 +9,11 @@ a very rudimentary site to host work done analyzing treebank `.xml` data
   - here I've compared Ovid and Vergil for what is currently treebanked by both
 - `ovidVergil.csv`
   - the output from the pervious script
+
+
+## Data Files
+
+- ovidAll.xml
+  - Ov. Met 1, 13
+- vergil.xml
+  - Ver. An. AP Syllabus, soon to be all of book 1
