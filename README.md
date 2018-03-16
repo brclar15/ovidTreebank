@@ -10,7 +10,7 @@ a very rudimentary site to host work done analyzing treebank `.xml` data
 - `ovidVergil.csv`
   - the output from the pervious script 
 -  `ovid.csv`
-  - the same comparison as above for Ovid 13 and Ovid 1
+   - the same comparison as above for Ovid 13 and Ovid 1
 
 
 ## Data Files
