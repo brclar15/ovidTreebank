@@ -1,3 +1,10 @@
+# Intra-Ovid Comparison
+
+- difference is bolding if deemed "significant"
+  - currentl that means  < 0.3  and diff > -0.1 
+    - I have no idea if that makes it significant or not
+- Not yet able to get N/A in difference when one feature is not present in one book
+
 
 | Relation  | Ovid 13  |  Ovid 1 | Difference  | 
 |---|---|---|---|
