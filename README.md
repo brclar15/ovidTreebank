@@ -8,7 +8,9 @@ a very rudimentary site to host work done analyzing treebank `.xml` data
 - `compareTrees.py` : prints out a data comparing two authors
   - here I've compared Ovid and Vergil for what is currently treebanked by both
 - `ovidVergil.csv`
-  - the output from the pervious script
+  - the output from the pervious script 
+-  `ovid.csv`
+  - the same comparison as above for Ovid 13 and Ovid 1
 
 
 ## Data Files
