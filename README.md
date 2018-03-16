@@ -9,8 +9,9 @@ a very rudimentary site to host work done analyzing treebank `.xml` data
   - here I've compared Ovid and Vergil for what is currently treebanked by both
 - `ovidVergil.csv`
   - the output from the pervious script 
--  `ovid.csv`
+-  `ovid.md`
    - the same comparison as above for Ovid 13 and Ovid 1
+   - in .md `.md` format to be able to bold small differences
 
 
 ## Data Files
