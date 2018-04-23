@@ -17,7 +17,7 @@ a very rudimentary site to host work done analyzing treebank `.xml` data
 - `ovidAll.xml`
   - Ov. Met 1, 13
 - `vergil.xml`
-  - Ver. An. AP Syllabus and all of book 1
+  - *Aeneid* AP Syllabus and all of book 1
 - `caesar1.xml`
   - Book 1 of *De Bello Gallico*
 - `juvenal6.xml`
