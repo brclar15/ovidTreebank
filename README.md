@@ -18,7 +18,7 @@ As mentioned above, some features are very common. If the program is about to pr
 
 
 
-## Current Contents
+## Other Contents: Comparing Authorial Stylistics 
 
 - `compareTrees.py` : prints out a `.csv` file with the percentages of each tag for two authors
 - `compareForms.py` : prints out the percent of certain forms used for a given tag
